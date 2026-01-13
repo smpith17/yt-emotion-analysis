@@ -1,0 +1,12 @@
+model_save/
+*.pt
+*.h5
+*.pkl
+*.ckpt
+*.bin
+*.txt
+data/
+dataset/
+__pycache__/
+venv/
+.env
